@@ -1,0 +1,21 @@
+
+- :title: Terminator
+  :genre: Action
+  :run_time: 123
+  :rating: oo
+  :comment: Pow pow, look out for Arnie! (This is the one where he's the bad guy, right?)
+- :title: Happy Gilmore
+  :genre: Comedy
+  :run_time: 90
+  :rating: M
+  :comment: Haha, Adam Sandler said something in a funny voice!
+- :title: Lassie Come Home
+  :genre: Drama
+  :run_time: 70
+  :rating: PG
+  :comment: Run Lassie, run! ... Towards home
+- :title: Bambi
+  :genre: Children
+  :run_time: 78
+  :rating: G
+  :comment: Oh no, Bambi's mum died!! :( How is this even rated G??

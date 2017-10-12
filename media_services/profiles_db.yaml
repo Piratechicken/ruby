@@ -1,0 +1,13 @@
+---
+- :account: simon@gmail
+  :first_name: John
+  :last_name: Smith
+  :dob: 1990-03-11
+- :account: simon@gmail
+  :first_name: Jim
+  :last_name: McGee
+  :dob: 1980-05-25
+- :account: simon@gmail
+  :first_name: Bobby
+  :last_name: Junior
+  :dob: 2005-08-18
